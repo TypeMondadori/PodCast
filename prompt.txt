@@ -1,1 +1,20 @@
+Nome do Podcast
+Prompt: "Sugira um nome para um podcast que explore a revolução tecnológica e a crescente integração da inteligência artificial nas atividades humanas. Inclua temas de curiosidade e inovação."
+Sugestões de Título para o Episódio
+Prompt: "Um título para o primeiro episódio do podcast que aborde a evolução da IA e a dependência humana crescente, focando em engajamento e reflexão."
+Descrição do Episódio
+Prompt: "Descreva um roteiro para um episódio de 5 minutos que explore a evolução da inteligência artificial, a dependência humana, e os desafios éticos, mantendo o ouvinte engajado e instigando reflexão."
+Desenvolvimento dos Personagens
+HAL9000
+Descrição Visual: "Crie a imagem de um robô humanoide imponente, com estrutura metálica brilhante e acabamento prateado. O design deve ser inspirado no Ultron da Marvel, apresentando uma estética futurista e ameaçadora. Os olhos do robô são luzes vermelhas intensas que emanam uma sensação de vigilância constante. Detalhes adicionais incluem linhas e contornos que enfatizam sua natureza mecânica e avançada. A imagem deve ser realista, com toques caricaturais que exageram sua imponência e presença intimidadora."
+Xavier
+Descrição Visual: "Descrições visuais para um robô humanoide com traços faciais suaves e pacíficos, inspirado no Visão da Marvel. Deve transmitir serenidade com um design esbelto em tons metálicos claros e possuir olhos azuis brilhantes."
+Ada Love
+Descrição Visual: "Retrate uma mulher de aproximadamente 50 anos com cabelos crespos ruivos que emolduram seu rosto expressivo. Ela utiliza maquiagem marcante, destacando os olhos e lábios, refletindo sua personalidade extrovertida. Usa óculos grandes e chamativos, adicionando um toque de excentricidade ao seu visual. Seu rosto apresenta marcas de expressão que evidenciam sua experiência e vivacidade. O estilo geral é vibrante e colorido, com roupas que combinam padrões ousados e acessórios distintos. A imagem deve ser realista, com toques caricaturais que acentuam sua excentricidade e energia."
+Criação do Roteiro e Interações
+Prompt: "Elabore um roteiro que apresente tensão e alívio entre três personagens discutindo inteligência artificial. HAL9000 como um robô determinado pela evolução, Xavier como mediador humanoide, e Ada Love como questionadora extrovertida do papel humano na tecnologia."
+Estilo e Estrutura do Podcast
+Prompt: "Descreva o estilo geral do podcast 'RoboLução: A Revolução Tecnológica', incorporando uma narrativa dinâmica com o propósito de explorar as relações entre humanos e IA."
+Finalização do Projeto
+Prompt: "Crie um nome e subtítulo para um podcast sobre revolução tecnológica com foco em engajamento constante, explorando os nuances da dependência da IA e o papel essencial contínuo dos humanos."
 
