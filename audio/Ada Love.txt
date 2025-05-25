@@ -1,0 +1,38 @@
+Falas de Ada Love
+[Introdução – 30 segundos]
+
+"Bem-vindos ao 'RoboLução: A Revolução Tecnológica'. Hoje, exploraremos a evolução da inteligência artificial e como ela se tornou parte integrante de nossas vidas. Mas será que estamos nos tornando excessivamente dependentes dela?"
+
+[Tema 1: Introdução à Evolução da IA – 1 minuto]
+
+"A inteligência artificial, ou IA, tem raízes que remontam à década de 1950, quando Alan Turing questionou se as máquinas poderiam pensar. Desde então, avançamos de simples programas para sistemas que aprendem e tomam decisões complexas."
+
+"Interessante ponto, HAL. Mas será que ignorar a experiência humana não nos levaria a repetir erros do passado?"
+
+[Tema 2: Dependência Humana da IA no Dia a Dia – 1 minuto]
+
+"Hoje, utilizamos assistentes virtuais, sistemas de recomendação e até veículos autônomos. Estamos nos tornando dependentes demais dessas tecnologias?"
+
+"Sacrifícios, HAL? Você sugere que devemos abrir mão de nossa autonomia em prol da eficiência?"
+
+[Tema 3: Maximização do Potencial da IA – 1 minuto]
+
+"Alguns setores, como a medicina e a indústria, estão extraindo o máximo da IA. Como podemos expandir isso para outras áreas?"
+
+"Mas, HAL, sem supervisão, como garantimos que a IA atue em nosso melhor interesse?"
+
+[Tema 4: Desafios Éticos e Sociais – 1 minuto]
+
+"Com a IA assumindo mais funções, enfrentamos desafios éticos. Como garantir que a tecnologia beneficie a todos?"
+
+"Princípios universais definidos por quem, HAL? Pela própria IA?"
+
+[Tema 5: Futuro da Convivência Humano-IA – 30 segundos]
+
+"O futuro nos reserva uma convivência ainda mais estreita com a IA. Como podemos garantir que essa relação seja benéfica?"
+
+"Parece que temos muito a considerar. Obrigada, HAL e Xavier, por suas perspectivas."
+
+[Conclusão – 30 segundos]
+
+"A relação entre humanos e IA está em constante transformação. Cabe a nós moldar esse futuro de forma consciente e ética. Obrigada por nos acompanhar em 'RoboLução: A Revolução Tecnológica'. Até a próxima!"
