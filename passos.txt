@@ -1,0 +1,20 @@
+passos.txt
+Definição da Ideia do Podcast
+Conceito inicial: "RoboLução: A Revolução Tecnológica"
+Personagens e Descrição: HAL9000, Xavier, Ada Love
+Criação dos Personagens
+Desenvolvimento de personagens únicos com reais e caricaturais com inspirações baseadas em ícones culturais e fictícios como Ultron, Visão e personalidades humanas distintas.
+Elaboração de Prompts para IA de Geração de Imagens
+Criar descrições detalhadas para gerar imagens dos personagens utilizando IA.
+Uso de Ferramentas de IA
+Selecionar ferramentas como DALL-E ou Midjourney para execução dos prompts.
+Desenvolvimento do Roteiro do Episódio de Podcast
+Estruturação de tópicos chave: evolução da IA, dependência tecnológica, desafios éticos, entre outros.
+Geração de Imagens para Personagens do Podcast
+Aplicação dos prompts em ferramentas de IA para criação de imagens.
+Organização dos Arquivos
+Criar e preparar arquivos de texto e README para documentação no GitHub.
+Configuração do Repositório GitHub
+Criação do repositório e inclusão de todos os arquivos desenvolvidos.
+Pronto para upload com descrição clara do intuito do projeto.
+
